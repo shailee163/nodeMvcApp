@@ -1,0 +1,25 @@
+{
+  "name": "node-mvc-app",
+  "version": "1.0.0",
+  "description": "creating node app in mvc structure",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shailee163/nodeMvcApp.git"
+  },
+  "keywords": [
+    "node",
+    "mvc"
+  ],
+  "author": "Shailee Shah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shailee163/nodeMvcApp/issues"
+  },
+  "homepage": "https://github.com/shailee163/nodeMvcApp#readme"
+}
